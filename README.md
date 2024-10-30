@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - *Daniel's First IOS App*
 
 Submitted by: **Daniel Mamuza**
 
-**Name of your app** is an app that... [TODO] 
+**Daniel's First IOS App** is an app that changes the background randomly each time a button is pressed.
 
 Time spent: **2** hours spent in total
 
@@ -15,17 +15,13 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
 <div>
     <a href="https://www.loom.com/share/0d5b19034c4a48139b5c61cc27dd96b3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0d5b19034c4a48139b5c61cc27dd96b3-3c8b48ff2c4dd138-full-play.gif">
     </a>
-    <a href="https://www.loom.com/share/0d5b19034c4a48139b5c61cc27dd96b3">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0d5b19034c4a48139b5c61cc27dd96b3-3c8b48ff2c4dd138.jpg">
-    </a>
-</div>
-  
-## App Brainstorming (Step 4)
+</div>  
+
+## App Brainstorming 
 
 Favorite Apps:
 - LetterBoxd
@@ -42,6 +38,8 @@ Favorite Apps:
 - Spotify
     - Listening to music
     - Sharing music through "Spotify Jam"
+
+### Dream App Build
 
 I would like to make a similar app to LetterBoxd where I could rate video games or music instead. Overall I really enjoy
 LetterBoxd and their social platform, I think something similar for either video games or even music albums could be a really 

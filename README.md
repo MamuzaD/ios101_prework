@@ -15,11 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div>
-    <a href="https://www.loom.com/share/0d5b19034c4a48139b5c61cc27dd96b3">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0d5b19034c4a48139b5c61cc27dd96b3-3c8b48ff2c4dd138-full-play.gif">
-    </a>
-</div>  
+![](https://imgur.com/a/YCGFouW.gif)
 
 ## App Brainstorming 
 

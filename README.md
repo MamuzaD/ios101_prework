@@ -4,30 +4,60 @@ Submitted by: **Daniel Mamuza**
 
 **Name of your app** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users can see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+<div>
+    <a href="https://www.loom.com/share/0d5b19034c4a48139b5c61cc27dd96b3">
+    </a>
+    <a href="https://www.loom.com/share/0d5b19034c4a48139b5c61cc27dd96b3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0d5b19034c4a48139b5c61cc27dd96b3-3c8b48ff2c4dd138.jpg">
+    </a>
+</div>
+  
 ## App Brainstorming (Step 4)
+
+Favorite Apps:
+- LetterBoxd
+    - Rate my favorite movies
+    - View friend's movie reviews
+- TikTok
+    - Short content
+    - Share memes or videos with friends
+- Discord
+    - Talk with friends through messages
+    - Voice channels and screen sharing
+- Reddit
+    - Just enjoy reading through posts
+- Spotify
+    - Listening to music
+    - Sharing music through "Spotify Jam"
+
+I would like to make a similar app to LetterBoxd where I could rate video games or music instead. Overall I really enjoy
+LetterBoxd and their social platform, I think something similar for either video games or even music albums could be a really 
+nice personal project, albeit a quite large one. I know it would require databases, user authentication, and crossplatform
+development such as web and mobile apps. 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+I was a bit confused with the simulator at first because it went to the Desktop instead of on top of XCode. 
+Other than that the prework instructions are very helpful, especially with the example videos.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Daniel Mamuza]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

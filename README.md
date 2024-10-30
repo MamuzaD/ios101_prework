@@ -4,7 +4,7 @@ Submitted by: **Daniel Mamuza**
 
 **Daniel's First IOS App** is an app that changes the background randomly each time a button is pressed.
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![](https://imgur.com/a/YCGFouW.gif)
+![](https://i.imgur.com/XGW2dkz.gif)
 
 ## App Brainstorming 
 
